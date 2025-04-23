@@ -1,0 +1,25 @@
+{
+  "name": "plott-text",
+  "version": "1.0.0",
+  "description": "Load in text effect, built by Ashley Armstrong @ PLOTT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ashley-plott@github.com/plottcreative/plott-text.git"
+  },
+  "keywords": [
+    "fade",
+    "in",
+    "text",
+    "effect"
+  ],
+  "author": "Ashley Armstrong <ashley@plott.co.uk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plottcreative/plott-text/issues"
+  },
+  "homepage": "https://github.com/plottcreative/plott-text#readme"
+}
