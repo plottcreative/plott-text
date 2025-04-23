@@ -13,3 +13,7 @@ import {plottText} from plott-text;
 ```html
 <h1 class="blockClassName text-split" data-content="<?php echo htmlspecialchars( $heading, ENT_QUOTES, 'UTF-8' ); ?>"><?php echo $heading; ?></h1>
 ```
+
+```css
+@import "node_modules/plott-text/plott-text";
+```
