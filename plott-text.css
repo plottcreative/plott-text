@@ -1,0 +1,26 @@
+.text--idle {
+    visibility: hidden;
+}
+
+.splitText__line {
+    overflow: hidden;
+    position: relative;
+    z-index: 2;
+}
+
+.splitText__line:before {
+    content: attr(data-content);
+    display: block;
+    transform: translateY(0%);
+    transition: transform 1s cubic-bezier(0.075, 0.82, 0.165, 1);
+    opacity: 1;
+}
+
+.splitText__line--idle:before {
+    opacity: 0;
+    transform: translateY(100%);
+}
+
+.text-split {
+    opacity: 0;
+}
