@@ -2,5 +2,5 @@
 
 This is a lovely text load-in effect built by PLOTT
 
-![](https://imgur.com/a/2W5rIAZ)
+![]([https://imgur.com/a/2W5rIAZ](https://imgur.com/yYCKl4p))
 
